@@ -5,10 +5,6 @@ client_scripts {
     'Client/sc_*.lua'
 }
 
-server_scripts {
-    'Server/sv_*.lua'
-}
-
 shared_scripts {
     'config.lua'
 }
